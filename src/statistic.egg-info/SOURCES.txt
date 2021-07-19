@@ -1,0 +1,10 @@
+LICENSE
+README.md
+pyproject.toml
+setup.cfg
+src/statistic/__init__.py
+src/statistic/statistic.py
+src/statistic.egg-info/PKG-INFO
+src/statistic.egg-info/SOURCES.txt
+src/statistic.egg-info/dependency_links.txt
+src/statistic.egg-info/top_level.txt
